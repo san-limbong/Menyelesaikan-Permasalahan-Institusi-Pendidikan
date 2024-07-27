@@ -66,6 +66,9 @@ user : postgres.jjcbnnkvcmoknjjtgpwc
 ## Business Dashboard
 Akses dashboard melalui tautan yang disediakan docker melalui [link](http://localhost:3000/public/dashboard/9058ef49-625a-4351-9d0d-b6128adf65ad)
 
+![san-limbong dashboard](https://github.com/user-attachments/assets/5aa08409-e914-462b-b3e0-645580532fe2)
+
+
 Analisis dashboard.
 1. Salah satu penyebab terjadinya dropout disebabkan oleh biaya kuliah yang tinggi dengan persentase sebanyak 67,8%
 
