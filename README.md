@@ -97,6 +97,9 @@ Berikut 4 pekerjaan peringkat tertinggi penghasil siswa dropout:
 ## Menjalankan Sistem Machine Learning
 Cobain sensasi memprediksi siswa dropout atau enggak [disini](https://isstudentdropout.streamlit.app/)
 
+![Uploading san-limbong predict app.png…]()
+
+
 1. Pengguna telah menginstal Anaconda di komputer yang digunakan
 2. Membuka terminal atau command prompt (cmd)
 3. Buat Virtual Environment Baru:
