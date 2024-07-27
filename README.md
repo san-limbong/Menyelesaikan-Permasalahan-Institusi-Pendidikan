@@ -92,7 +92,7 @@ Berikut 4 pekerjaan peringkat tertinggi penghasil siswa dropout:
 - Personal Services, Security and Safety Workers and Sellers 
 
 ## Menjalankan Sistem Machine Learning
-Akses sistem machine learning melalui [link](http://localhost:3000/public/dashboard/9058ef49-625a-4351-9d0d-b6128adf65ad)
+Cobain sensasi memprediksi siswa dropout atau enggak [disini](https://isstudentdropout.streamlit.app/)
 
 1. Pengguna telah menginstal Anaconda di komputer yang digunakan
 2. Membuka terminal atau command prompt (cmd)
